@@ -1,1 +1,1 @@
-# config-repo
+# books-online-config-repo
